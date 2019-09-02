@@ -1,8 +1,10 @@
-package com.mobileapps.mvvmdaggar2rxjava2retrofit2example;
+package com.mobileapps.mvvmdaggar2rxjava2retrofit2example.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.mobileapps.mvvmdaggar2rxjava2retrofit2example.R;
 
 public class MainActivity extends AppCompatActivity {
 
